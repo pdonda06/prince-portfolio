@@ -73,12 +73,7 @@ const SocialIcons = () => {
           </a>
         </span>
         <span>
-          <a href="https://leetcode.com/u/prince_donda/" target="_blank">
-            <FaXTwitter />
-          </a>
-        </span>
-        <span>
-          <a href="mailto:princedonda4489@gmail.com" target="_blank">
+          <a href="https://www.instagram.com/ig_donda?igsh=YzRnNHhjb2xybGJs" target="_blank">
             <FaInstagram />
           </a>
         </span>
